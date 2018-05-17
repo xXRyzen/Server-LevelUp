@@ -1,5 +1,5 @@
 name: serverLevels
 main: serverLevels\Main
 author: Atomization
-api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13]
 version: 1.0
